@@ -1,0 +1,58 @@
+Dataset: F:\LibRec\data\ratings\1_2_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_2_te.txt
+Dataset: F:\LibRec\data\ratings\1_2_te.txt
+BiasedMF,0.213188,0.265688,0.426377,0.195918,0.312984,0.391837,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_8_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_8_te.txt
+Dataset: F:\LibRec\data\ratings\1_8_te.txt
+BiasedMF,0.204323,0.261962,0.408647,0.189948,0.308179,0.379897,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_18_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_18_te.txt
+Dataset: F:\LibRec\data\ratings\1_18_te.txt
+BiasedMF,0.213915,0.266492,0.427829,0.200202,0.316387,0.400404,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_19_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_19_te.txt
+Dataset: F:\LibRec\data\ratings\1_19_te.txt
+BiasedMF,0.205731,0.259826,0.411462,0.188148,0.306715,0.376296,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_22_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_22_te.txt
+Dataset: F:\LibRec\data\ratings\1_22_te.txt
+BiasedMF,0.218311,0.265504,0.436621,0.210106,0.324119,0.420213,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_28_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_28_te.txt
+Dataset: F:\LibRec\data\ratings\1_28_te.txt
+BiasedMF,0.204305,0.259469,0.408610,0.186679,0.305515,0.373358,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_36_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_36_te.txt
+Dataset: F:\LibRec\data\ratings\1_36_te.txt
+BiasedMF,0.210228,0.262759,0.420456,0.195096,0.312327,0.390192,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_40_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_40_te.txt
+Dataset: F:\LibRec\data\ratings\1_40_te.txt
+BiasedMF,0.204117,0.259673,0.408233,0.186886,0.305685,0.373773,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_44_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_44_te.txt
+Dataset: F:\LibRec\data\ratings\1_44_te.txt
+BiasedMF,0.210603,0.263888,0.421207,0.198935,0.315385,0.397870,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\1_49_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\1_49_te.txt
+Dataset: F:\LibRec\data\ratings\1_49_te.txt
+BiasedMF,0.206872,0.263096,0.413743,0.192123,0.309938,0.384247,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\2_3_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\2_3_te.txt
+Dataset: F:\LibRec\data\ratings\2_3_te.txt
+BiasedMF,0.219737,0.264889,0.439474,0.211959,0.325545,0.423917,,10, 0.01, -1.0, 0.1, 0.1, 0.1, 200, true,'00:00','00:00'
+
+Dataset: F:\LibRec\data\ratings\2_7_tr.txt
+With Setup: test-set -f F:\LibRec\data\ratings\2_7_te.txt
+Dataset: F:\LibRec\data\ratings\2_7_te.txt

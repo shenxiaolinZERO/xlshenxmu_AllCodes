@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/happy.coding.utils-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/librec.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/mail-1.4.5.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="F:/LibRec/lib/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

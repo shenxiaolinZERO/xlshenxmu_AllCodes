@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EarlyPrediction/.idea/EarlyPrediction.iml" filepath="$PROJECT_DIR$/../EarlyPrediction/.idea/EarlyPrediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LambdaMart/.idea/LambdaMart.iml" filepath="$PROJECT_DIR$/../LambdaMart/.idea/LambdaMart.iml" />
+      <module fileurl="file://E:/workspace/PythonPractice/.idea/PythonPractice.iml" filepath="E:/workspace/PythonPractice/.idea/PythonPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RankNet/.idea/RankNet.iml" filepath="$PROJECT_DIR$/../RankNet/.idea/RankNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../classification/.idea/classification.iml" filepath="$PROJECT_DIR$/../classification/.idea/classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../common/.idea/common.iml" filepath="$PROJECT_DIR$/../common/.idea/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regression/.idea/regression.iml" filepath="$PROJECT_DIR$/../regression/.idea/regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rlso.iml" filepath="$PROJECT_DIR$/.idea/rlso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_rlso1/.idea/test_rlso1.iml" filepath="$PROJECT_DIR$/../test_rlso1/.idea/test_rlso1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
