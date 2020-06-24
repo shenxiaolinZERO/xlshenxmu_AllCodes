@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry excluding="Backup0701/" kind="src" path="src/main/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/eclipse_CB2/prea_theta_v2/ujmp-complete-0.2.5.jar"/>
-	<classpathentry kind="lib" path="D:/eclipse_CB2/prea_theta_v2/ujmp-complete-0.2.5-sources.jar"/>
-	<classpathentry kind="output" path="build/classes"/>
-</classpath>
